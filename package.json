@@ -1,0 +1,25 @@
+{
+  "name": "university-management-auth-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanisahmed/university-management.git"
+  },
+  "keywords": [
+    "university-management",
+    "university",
+    "fullstact",
+    "application"
+  ],
+  "author": "Yanis Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanisahmed/university-management/issues"
+  },
+  "homepage": "https://github.com/yanisahmed/university-management#readme"
+}
